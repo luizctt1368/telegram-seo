@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://super-mochi-88e4dd.netlify.app/sitemap.xml
