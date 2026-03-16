@@ -1,0 +1,10 @@
+apple
+samsung
+xiaomi
+motorola
+lenovo
+acer
+asus
+lg
+philips
+multilaser
