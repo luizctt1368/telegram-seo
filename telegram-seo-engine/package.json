@@ -1,0 +1,20 @@
+{
+  "name": "telegram-seo-engine",
+  "version": "1.0.0",
+  "description": "Gerador de páginas SEO para divulgar grupo do Telegram com sitemap, robots e estrutura pronta para Netlify.",
+  "main": "generate-pages.js",
+  "scripts": {
+    "keywords": "node generate-keywords.js",
+    "build": "node generate-pages.js",
+    "dev": "node generate-pages.js"
+  },
+  "keywords": [
+    "seo",
+    "telegram",
+    "netlify",
+    "static-site",
+    "nodejs"
+  ],
+  "author": "OpenAI",
+  "license": "MIT"
+}
