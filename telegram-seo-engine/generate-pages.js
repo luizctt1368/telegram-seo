@@ -3,7 +3,7 @@ const path = require("path");
 
 const config = {
   groupLink: "https://t.me/garimpodeofertas2",
-  siteUrl: "https://SEU-SITE.netlify.app",
+  siteUrl: "https://super-mochi-88e4dd.netlify.app/",
   siteName: "Garimpo de Ofertas no Telegram",
   brandName: "Garimpo de Ofertas",
   maxRelatedLinks: 6
